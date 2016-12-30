@@ -26,11 +26,11 @@
    "Modify brightness/contrast for all layers\
     of the image."                             ;description
    "Arthur Noseda"                             ;author
-   "copyright 2016, Arthur Noseda"             ;copyright notice
-   "December 29, 2016"                         ;date created
-   ""                     ;image type that the script works on
+   "2016"                                      ;copyright notice
+   "December 30, 2016"                         ;date created
+   "*"                    ;image type that the script works on
    SF-IMAGE       "Image"         1
-   SF-ADJUSTMENT  "Brightness:"   '(0 -127 127 1 10 0 SF-SLIDER)
+   SF-ADJUSTMENT  "Brightness"    '(0 -127 127 1 10 0 SF-SLIDER)
                                                ;a spin-button
    SF-ADJUSTMENT  "Contrast"      '(0 -127 127 1 10 0 SF-SLIDER)
                                                ;a spin-button
