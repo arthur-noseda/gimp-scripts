@@ -22,9 +22,9 @@
 
 (script-fu-register
    "script-fu-brightness-contrast-all-layers"  ;func name
-   "Brightness-Contrast-All-Layers..."         ;menu label
+   "Brightness-Contrast All Layers..."         ;menu label
    "Modify brightness/contrast for all layers\
-    of the image."                             ;description
+of the image."                                 ;description
    "Arthur Noseda"                             ;author
    "2016"                                      ;copyright notice
    "December 30, 2016"                         ;date created
